@@ -4,7 +4,7 @@
   "image": "ipfs://QmaeRTJszgRFdDAaPsWmGBzoNQ6t9JQERxp18g3dabibrg/8.jpg",
   "animation_url": "ipfs://QmaeRTJszgRFdDAaPsWmGBzoNQ6t9JQERxp18g3dabibrg/8.jpg",
   "logo": "https://uploads-ssl.webflow.com/6224174732207f7558ea54e6/62a35b62f3d2084eb0120ff2_tifi.png",
-  "website": "tifi.net/",
+  "website": "https://tifi.net/",
   "dna": "97d6df4fa1b13112f62a6cf4aeb6edfac2ccb898",
   "edition": 8,
   "year": 2022,
@@ -17,12 +17,12 @@
       "display_type": "number",
       "trait_type": "KYC Tier",
       "max_value": 5,
-      "value": 2
+      "value": 4
     },
     {
       "trait_type": "AML Score",
       "max_value": 100,
-      "value": 45
+      "value": 87
     },
     {
       "display_type": "date",
