@@ -4,7 +4,7 @@
   "image": "ipfs://QmaeRTJszgRFdDAaPsWmGBzoNQ6t9JQERxp18g3dabibrg/7.jpg",
   "animation_url": "ipfs://QmaeRTJszgRFdDAaPsWmGBzoNQ6t9JQERxp18g3dabibrg/7.jpg",
   "logo": "https://uploads-ssl.webflow.com/6224174732207f7558ea54e6/62338ca77669055c62171e0b_Untitled%20design-71.png",
-  "website": "nebulanodes.finance/",
+  "website": "https://nebulanodes.finance/",
   "dna": "97d6df4fa1b13112f62a6cf4aeb6edfac2ccb897",
   "edition": 7,
   "year": 2022,
@@ -22,7 +22,7 @@
     {
       "trait_type": "AML Score",
       "max_value": 100,
-      "value": 45
+      "value": 77
     },
     {
       "display_type": "date",
