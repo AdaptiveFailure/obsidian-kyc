@@ -4,7 +4,7 @@
   "image": "ipfs://QmaeRTJszgRFdDAaPsWmGBzoNQ6t9JQERxp18g3dabibrg/4.jpg",
   "animation_url": "ipfs://QmaeRTJszgRFdDAaPsWmGBzoNQ6t9JQERxp18g3dabibrg/4.jpg",
   "logo": "https://uploads-ssl.webflow.com/6224174732207f7558ea54e6/6242f8423b3c656512ce4e6e_Untitled%20design-87.png",
-  "website": "cryptwear.io",
+  "website": "https://cryptwear.io",
   "dna": "97d6df4fa1b13112f62a6cf4aeb6edfac2ccb894",
   "edition": 4,
   "year": 2022,
@@ -22,7 +22,7 @@
     {
       "trait_type": "AML Score",
       "max_value": 100,
-      "value": 85
+      "value": 89
     },
     {
       "display_type": "date",
