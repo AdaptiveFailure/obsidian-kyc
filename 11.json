@@ -1,0 +1,40 @@
+{
+  "name": "Parrotly Finance",
+  "description": "Parrotly Finance Inc brings banking to DeFi.",
+  "image": "ipfs://QmaeRTJszgRFdDAaPsWmGBzoNQ6t9JQERxp18g3dabibrg/11.jpg",
+  "animation_url": "ipfs://QmaeRTJszgRFdDAaPsWmGBzoNQ6t9JQERxp18g3dabibrg/11.jpg",
+  "logo": "https://uploads-ssl.webflow.com/6224174732207f7558ea54e6/628286e46fa5227cfcdb6465_parrotly.png",
+  "website": "https://ariatoken.com",
+  "dna": "97d6df4fa1b13112f62a6cf4aeb6edfac2ccb811",
+  "edition": 11,
+  "year": 2022,
+  "date": 1650002497409,
+  "creator": "TRUST NFTs",
+  "trust_contract": "",
+  "ticker": "Parrotly",
+  "attributes": [
+    {
+      "display_type": "number",
+      "trait_type": "KYC Tier",
+      "max_value": 5,
+      "value": 4
+    },
+    {
+      "trait_type": "AML Score",
+      "max_value": 100,
+      "value": 91
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Last Reviewed",
+      "value": 1650002497498
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Initiated",
+      "value": 1650002497498
+    }
+  ],
+  "compiler": "TrustGen v1.0.1",
+  "powered": "The Obsidian Council"
+}
