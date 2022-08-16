@@ -4,7 +4,7 @@
   "image": "ipfs://QmaeRTJszgRFdDAaPsWmGBzoNQ6t9JQERxp18g3dabibrg/5.jpg",
   "animation_url": "ipfs://QmaeRTJszgRFdDAaPsWmGBzoNQ6t9JQERxp18g3dabibrg/5.jpg",
   "logo": "https://uploads-ssl.webflow.com/6224174732207f7558ea54e6/624caf1ad4d9d8354b69866a_wand.png",
-  "website": "wand-eta.vercel.app/",
+  "website": "https://wand-eta.vercel.app",
   "dna": "97d6df4fa1b13112f62a6cf4aeb6edfac2ccb895",
   "edition": 5,
   "year": 2022,
@@ -22,7 +22,7 @@
     {
       "trait_type": "AML Score",
       "max_value": 100,
-      "value": 45
+      "value": 92
     },
     {
       "display_type": "date",
