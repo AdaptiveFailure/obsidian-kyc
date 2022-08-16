@@ -1,5 +1,5 @@
 {
-  "name": "WAND",
+  "name": "WAND | Verified by Obsidian",
   "description": "WAND is a sustainability-centric DeFi protocol.",
   "image": "ipfs://QmaeRTJszgRFdDAaPsWmGBzoNQ6t9JQERxp18g3dabibrg/5.jpg",
   "animation_url": "ipfs://QmaeRTJszgRFdDAaPsWmGBzoNQ6t9JQERxp18g3dabibrg/5.jpg",
@@ -12,6 +12,7 @@
   "creator": "TRUST NFTs",
   "trust_contract": "",
   "ticker": "WAND",
+  "issued_by": "The Obsidian Council",
   "attributes": [
     {
       "display_type": "number",
@@ -25,13 +26,18 @@
       "value": 92
     },
     {
-      "display_type": "date",
       "trait_type": "Last Reviewed",
+      "display_type": "date",
       "value": 1650002497498
     },
     {
-      "display_type": "date",
       "trait_type": "Initiated",
+      "display_type": "date",
+      "value": 1650002497498
+    },
+    {
+      "trait_type": "Expiry",
+      "display_type": "date",
       "value": 1650002497498
     }
   ],
