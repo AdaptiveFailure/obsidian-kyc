@@ -1,5 +1,5 @@
 {
-  "name": "Parrotly Finance",
+  "name": "Parrotly Finance | Verified by Obsidian",
   "description": "Parrotly Finance Inc brings banking to DeFi.",
   "image": "ipfs://QmaeRTJszgRFdDAaPsWmGBzoNQ6t9JQERxp18g3dabibrg/11.jpg",
   "animation_url": "ipfs://QmaeRTJszgRFdDAaPsWmGBzoNQ6t9JQERxp18g3dabibrg/11.jpg",
@@ -12,6 +12,7 @@
   "creator": "TRUST NFTs",
   "trust_contract": "",
   "ticker": "Parrotly",
+  "issued_by": "The Obsidian Council",
   "attributes": [
     {
       "display_type": "number",
@@ -25,13 +26,18 @@
       "value": 91
     },
     {
-      "display_type": "date",
       "trait_type": "Last Reviewed",
+      "display_type": "date",
       "value": 1650002497498
     },
     {
-      "display_type": "date",
       "trait_type": "Initiated",
+      "display_type": "date",
+      "value": 1650002497498
+    },
+    {
+      "trait_type": "Expiry",
+      "display_type": "date",
       "value": 1650002497498
     }
   ],
