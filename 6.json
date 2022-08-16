@@ -4,7 +4,7 @@
   "image": "ipfs://QmaeRTJszgRFdDAaPsWmGBzoNQ6t9JQERxp18g3dabibrg/6.jpg",
   "animation_url": "ipfs://QmaeRTJszgRFdDAaPsWmGBzoNQ6t9JQERxp18g3dabibrg/6.jpg",
   "logo": "https://uploads-ssl.webflow.com/6224174732207f7558ea54e6/62595c5bd654fc51b8c0c5c2_rocket%20global%20(1).png",
-  "website": "rocketglobal.io/",
+  "website": "https://rocketglobal.io",
   "dna": "97d6df4fa1b13112f62a6cf4aeb6edfac2ccb896",
   "edition": 6,
   "year": 2022,
@@ -22,7 +22,7 @@
     {
       "trait_type": "AML Score",
       "max_value": 100,
-      "value": 45
+      "value": 79
     },
     {
       "display_type": "date",
